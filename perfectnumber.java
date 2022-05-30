@@ -23,9 +23,6 @@ public class Perfectnum {
             {
                 System.out.println("The number is not Perfect");
             }
-        }
-        int divisor(int x)
-        {
-            return x;
+           
         }
     }
